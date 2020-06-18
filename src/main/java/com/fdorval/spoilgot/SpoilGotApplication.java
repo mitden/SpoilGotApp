@@ -14,9 +14,6 @@ public class SpoilGotApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpoilGotApplication.class, args);
 
-
-        pouet
-
     }
 
 
