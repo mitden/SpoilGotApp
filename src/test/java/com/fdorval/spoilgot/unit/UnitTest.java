@@ -8,6 +8,6 @@ public class UnitTest {
 
     @Test
     public void monTest(){
-        Assert.assertEquals(1+1,3 );
+        Assert.assertEquals(1+2,3 );
     }
 }
